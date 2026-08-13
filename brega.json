@@ -71,6 +71,12 @@
 {"id":70,"artist":"Adeus","title":"Solido Pickin Up Pebbles0","genero":"BREGA","src":"SolidoPickinUpPebbles0_Adeus.mp3"},
 {"id":71,"artist":"The Millionaire","title":"O MilionArio","genero":"BREGA","src":"OMilionArio_TheMillionaire.mp3"},
 {"id":72,"artist":"Beny Perola Negra","title":"O Rei Vive","genero":"BREGA","src":"OReiVive_BenyPerolaNegra.mp3"},
-{"id":73,"artist":"Swing","title":"Out Sister Am I The Same Girl 1992","genero":"BREGA","src":"OutSisterAmITheSameGirl1992_Swing.mp3"}
+{"id":73,"artist":"Swing","title":"Out Sister Am I The Same Girl 1992","genero":"BREGA","src":"OutSisterAmITheSameGirl1992_Swing.mp3"},
+  {"id":74,"artist":"AGUINALDO THEMOTEO","title":"Meu Grito","genero":"POP","src":"MeuGrito_AGUINALDOTHEMOTEO.mp3"},
+{"id":75,"artist":"ALTEMAR DUTRA","title":"O Fim The End","genero":"POP","src":"OFimTheEnd_ALTEMARDUTRA.mp3"},
+{"id":76,"artist":"Marcos Roberto","title":"Seral","genero":"POP","src":"Seral_MarcosRoberto.mp3"},
+{"id":77,"artist":"Wanderley Cardoso","title":"O Bom Rapaz","genero":"POP","src":"OBomRapaz_WanderleyCardoso.mp3"},
+{"id":78,"artist":"desc","title":"Alguem Me Disse","genero":"POP","src":"AlguemMeDisse_desc.mp3"},
+{"id":79,"artist":"DESC","title":"Fallaste Corazon","genero":"POP","src":"FallasteCorazon_DESC.mp3"}
 ]
 
